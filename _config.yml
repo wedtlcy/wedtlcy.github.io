@@ -4,12 +4,12 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Hanson|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://wedtlcy.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "李传银"
+  email: wedtlcy@126.com
   bio: ""
 
 # Data
@@ -18,8 +18,8 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: wedtlcy
+weibo_username: wedtlcy
 facebook_username:
 zhihu_username: zhang-yi-sen-46
 
